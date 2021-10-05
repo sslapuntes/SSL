@@ -1,0 +1,4 @@
+1) bison -d y.y            
+2) flex l.l                
+3) gcc y.tab.c lex.yy.c    
+4) ./a.exe archivo_fuente.c
